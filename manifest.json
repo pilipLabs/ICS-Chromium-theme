@@ -1,0 +1,27 @@
+{
+   "name": "ICS Chromium theme",
+   "theme": {
+      "colors": {
+         "frame": [ 71, 105, 91 ],
+         "ntp_link": [ 36, 70, 0 ],
+         "ntp_section": [ 207, 221, 192 ],
+         "ntp_text": [ 20, 40, 0 ],
+         "toolbar": [ 207, 221, 192 ]
+      },
+      "images": {
+         "theme_frame": "images/popup-sub-menu.png",
+         "theme_toolbar": "images/tab_hover.png",
+         "theme_tab_background":  "images/popup-sub-menu.png",
+         "theme_button_background": "images/tab_hover.png",
+         "theme_ntp_background": "images/popup-sub-menu.png",
+         "theme_toolbar": "images/popup-sub-menu.png"
+      },
+      "tints": {
+         "buttons": [ 0.33, 0.5, 0.47 ]
+      },
+      "properties": {
+        "ntp_background_repeat": "repeat"
+      }
+   },
+   "version": "2.0"
+}
