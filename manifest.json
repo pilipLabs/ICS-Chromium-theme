@@ -1,5 +1,7 @@
 {
+   "version": "0.1",
    "name": "ICS Chromium theme",
+   "description": "ICS inspired theme for Chrome.",
    "theme": {
       "colors": {
          "frame": [ 0, 0, 0 ],
@@ -28,6 +30,5 @@
         "48": "icon48.png",
         "128": "icon128.png" 
       }
-   },
-   "version": "0.1"
+   }
 }
