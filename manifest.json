@@ -4,10 +4,11 @@
       "colors": {
          "frame": [ 0, 0, 0 ],
          "ntp_text": [ 200, 200, 200 ],
-         "tab_background_text": [ 200, 200, 200 ],
          "tab_text": [ 200, 200, 200 ],
+         "tab_background_text": [ 200, 200, 200 ],
          "bookmark_text": [ 200, 200, 200],
-         "button_background": [ 200, 200, 200]
+         "button_background": [ 200, 200, 200],
+         "toolbar": [ 0, 0, 0]
       },
       "images": {
          "theme_toolbar": "images/tab_hover.png",
