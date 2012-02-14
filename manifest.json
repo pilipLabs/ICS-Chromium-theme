@@ -10,14 +10,16 @@
          "tab_background_text": [ 200, 200, 200 ],
          "bookmark_text": [ 200, 200, 200],
          "button_background": [ 200, 200, 200],
-         "toolbar": [ 0, 0, 0]
+         "toolbar": [ 0, 0, 0],
+         "ntp_background": [ 40, 40, 40 ]
       },
       "images": {
          "theme_toolbar": "images/tab_hover.png",
          "theme_frame": "images/background-2.png",
          "theme_button_background": "images/background-2.png",
          "theme_tab_background": "images/background.png",
-         "theme_ntp_background": "images/background-2.png"
+         "theme_ntp_background": "images/background-2.png",
+         "theme_ntp_attribution": "images/background-2.png"
       },
       "tints": {
          "buttons": [ 1, 1, 1 ]
