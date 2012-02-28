@@ -1,7 +1,7 @@
 {
    "version": "0.1.3",
    "name": "ICS Chromium theme",
-   "description": "ICS inspired theme for Chrome.",
+   "description": "Android ICS inspired theme for Chrome.",
    "theme": {
       "colors": {
          "frame": [ 0, 0, 0 ],
