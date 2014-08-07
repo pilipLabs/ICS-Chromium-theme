@@ -1,4 +1,5 @@
 {
+   "manifest_version": 2,
    "version": "0.1.6",
    "name": "ICS Chromium theme",
    "description": "Android ICS inspired theme for Chrome.",
@@ -27,10 +28,10 @@
       "properties": {
         "ntp_background_repeat": "repeat"
       },
-      "icons": { 
+      "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
-        "128": "icon128.png" 
+        "128": "icon128.png"
       }
    }
 }
