@@ -1,6 +1,6 @@
 {
    "manifest_version": 2,
-   "version": "0.1.9",
+   "version": "0.1.10",
    "name": "ICS Chromium theme",
    "description": "Android ICS inspired theme for Chrome.",
    "theme": {
